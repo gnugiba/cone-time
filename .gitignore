@@ -1,0 +1,11 @@
+# Build & Compilation Artifacts
+build/
+*.exe
+
+# Tooling & IDE Caches
+.cache/
+CMake*
+
+# System Files
+.DS_Store
+Thumbs.db
