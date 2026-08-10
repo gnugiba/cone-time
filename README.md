@@ -2,7 +2,7 @@
 
 ## General Usage
 
-A productivity tools to have undisrupted moment to have excellent quality time
+A productivity tools to have excellent quality time
 
 ## Roadmap
 
