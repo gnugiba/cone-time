@@ -9,3 +9,6 @@ CMake*
 # System Files
 .DS_Store
 Thumbs.db
+
+# Personal Note
+.personal_item.txt
